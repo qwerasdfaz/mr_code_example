@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day05_mapreduce" />
+        <module name="day05_mapreduce (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day05_mapreduce" target="1.5" />
+      <module name="day05_mapreduce (1)" target="1.8" />
+      <module name="day05_mapreduce (2)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

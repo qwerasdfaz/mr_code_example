@@ -1,0 +1,4 @@
+cn\itcast\mapreduce\sort\JobMain.class
+cn\itcast\mapreduce\sort\SortBean.class
+cn\itcast\mapreduce\sort\SortReducer.class
+cn\itcast\mapreduce\sort\SortMapper.class

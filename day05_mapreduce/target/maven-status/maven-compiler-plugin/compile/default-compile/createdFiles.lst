@@ -1,0 +1,7 @@
+cn\itcast\mapreduce\WordCountReducer.class
+cn\itcast\partition\MyPartitioner.class
+cn\itcast\mapreduce\WordCountMapper.class
+cn\itcast\partition\PartitionMapper.class
+cn\itcast\partition\JobMain.class
+cn\itcast\partition\PartitionerReducer.class
+cn\itcast\mapreduce\JobMain.class
